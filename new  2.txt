@@ -1,0 +1,18 @@
+LInk
+
+
+http://inpunwbs02-wcg.corp.capgemini.com:8080/auth/?du=aHR0cHM6Ly9ycGF4LWRvd25sb2FkLndvcmtmdXNpb24uY29tL2Rvd25sb2FkP3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUo5LmV5SnBjM01pT2lKM2IzSnJablZ6YVc5dUxtTnZiU0lzSW1OdmJYQmhibmtpT2lKRFlYQm5aVzFwYm1rZ1NXNWthV0VpTENKbGJXRnBiQ0k2SW1GdGFYUXVhUzVyZFcxaGNrQmpZWEJuWlcxcGJta3VZMjl0SW4wLjFKS2hrNDFubmkxT3ltd0FRRjNLNDdIRXhJN0VxUm9hYTU1Y2dkd2dxZmc=&ip=MTAuMTAyLjkzLjM4OjgwODA=
+
+
+You can use the following credentials to login into Control Tower + Secure Storage, S3 Storage, and WorkSpace: 
+
+Username: workfusion 
+Password: workfusion 
+
+Use the following credentials to log into the WorkFusion Forum: https://forum.workfusion.com/ 
+
+Username: amit_i_kumar 
+Password: zCCuo8/X0{&9 
+
+Go to the Knowledge Base https://kb.workfusion.com/display/RPAe for everything you need to learn how to use RPA Express, from product documentation to online tutorials. 
+ 
