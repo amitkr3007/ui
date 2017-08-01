@@ -1,8 +1,6 @@
 LInk
 
-
-http://inpunwbs02-wcg.corp.capgemini.com:8080/auth/?du=aHR0cHM6Ly9ycGF4LWRvd25sb2FkLndvcmtmdXNpb24uY29tL2Rvd25sb2FkP3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUo5LmV5SnBjM01pT2lKM2IzSnJablZ6YVc5dUxtTnZiU0lzSW1OdmJYQmhibmtpT2lKRFlYQm5aVzFwYm1rZ1NXNWthV0VpTENKbGJXRnBiQ0k2SW1GdGFYUXVhUzVyZFcxaGNrQmpZWEJuWlcxcGJta3VZMjl0SW4wLjFKS2hrNDFubmkxT3ltd0FRRjNLNDdIRXhJN0VxUm9hYTU1Y2dkd2dxZmc=&ip=MTAuMTAyLjkzLjM4OjgwODA=
-
+https://rpax-download.workfusion.com/download?token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ3b3JrZnVzaW9uLmNvbSIsImNvbXBhbnkiOiJDYXBnZW1pbmkgSW5kaWEiLCJlbWFpbCI6ImFtaXQuaS5rdW1hckBjYXBnZW1pbmkuY29tIn0.1JKhk41nni1OymwAQF3K47HExI7EqRoaa55cgdwgqfg
 
 You can use the following credentials to login into Control Tower + Secure Storage, S3 Storage, and WorkSpace: 
 
