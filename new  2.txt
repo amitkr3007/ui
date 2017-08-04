@@ -6,7 +6,8 @@ You can use the following credentials to login into Control Tower + Secure Stora
 
 Username: workfusion 
 Password: workfusion 
-
+User Name: amit.i.kumar@capgemini.com
+Password: 1x*6EfU2)h?P
 Use the following credentials to log into the WorkFusion Forum: https://forum.workfusion.com/ 
 
 Username: amit_i_kumar 
