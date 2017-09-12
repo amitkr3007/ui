@@ -1,34 +1,3 @@
-1. Getting error on opening Template macro file.
-2. Which Folder to be used as Folder Name.
-3. Point 8
-4. YTD File
-	-‘Average Ticket Price for Country/Class/Route  Secor’ (BK??) 
-	-Average Ticket Price for Routes tab only’ which column (BL??)
-
-Step- 2
-1. 
-For Summary and YoY Summ Graphs
-2015
-2016
-RoutesDATA
-
-Above Sheets are in very hidden mode and can't make it visible as it is password protected.
-
-2. As hidden sheets indicate that there is 2015,2016 named sheets but in pdd 2017,2016 sheet is used.
-3. 2016 boxes and graphs sheet is not there, There is 2015 boxes and graph.
-4. Do we need to copy all data from Graphs, route data,for boxes
-5. 2016 boxes and graphs   2016 data (2016 pivot file) no such sheets are there, do both sheet exist in dashboard file?
-6. 2016  YOY Summary data (2016 Pivot file)  "  " " "
-7. Current year Pivot (What does it mean, 2017??)
-8. From where should we check that do we need to insert new row??
-9. Any shortcut/formula to select cells having same value for min and max
-10. Where is ctrips data? Clear this point.
-11.YOY Summary- Paste into 2017 and 2016 tabs and check the YOY summary tab for formulas. Click on each country and SBU to check the data. Not Clear
-12. which macro to run in routes data??
-13.Additional Analysis- Paste the data from pivot file to ‘For Appendix’ tab. ??
-14. What to do for update graphs?
-15. How to update boxes and check formulas?
-
-Clearify Step-3
+https://stackoverflow.com/questions/26242989/excel-vba-pivot-table-with-multiple-value-filters
 
 https://www.experts-exchange.com/questions/26971182/Excel-VBA-Multi-select-values-in-pivot-page-filter.html#answer35463947-20
